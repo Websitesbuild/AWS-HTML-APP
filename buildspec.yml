@@ -3,6 +3,7 @@ version: 0.2
 env:
   variables:
     AWS_REGION: us-east-1
+    AWS_ACCOUNT_ID: 350132345848 
     ECR_REPO: html-app
     IMAGE_TAG: latest
 
